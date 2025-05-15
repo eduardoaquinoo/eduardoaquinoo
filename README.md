@@ -44,10 +44,7 @@ Olá! Meu nome é Eduardo Aquino e sou estudante de **Engenharia de Software** n
 > 🧠 **"Todo expert já foi um iniciante."** – Helen Hayes
 
 Obrigado por visitar meu perfil! 🚀
-✅ Instruções:
-Substitua:
-
-[Seu Nome] pelo seu nome real.
+Eduardo Aquino
 
 https://github.com/eduardoaquinoo pelo seu link do GitHub.
 
@@ -58,11 +55,6 @@ mailto:eduardoaquinoo@live.com pelo seu e-mail real.
 Links do Instagram/Twitter se quiser usá-los (ou remova se preferir).
 
 Se quiser, posso gerar esse arquivo pronto para você baixar. Deseja que eu faça isso agora?
-
-
-
-
-
 
 ---
 

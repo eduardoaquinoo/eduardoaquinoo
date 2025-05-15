@@ -30,15 +30,14 @@ Olá! Meu nome é Eduardo Aquino e sou estudante de **Engenharia de Software** n
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-## 📫 Como me encontrar
 
 ## 📫 Onde me encontrar
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardoaquinoo)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esadudu/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esa.dudu@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eduardoaquinoo/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/seuusuario)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/eduardoaquinoo)
 
 ---
 
@@ -50,11 +49,11 @@ Substitua:
 
 [Seu Nome] pelo seu nome real.
 
-https://github.com/seunomedeusuario pelo seu link do GitHub.
+https://github.com/eduardoaquinoo pelo seu link do GitHub.
 
-https://www.linkedin.com/in/seu-usuario/ pelo seu perfil do LinkedIn.
+https://www.linkedin.com/in/esadudu/ pelo seu perfil do LinkedIn.
 
-mailto:seuemail@exemplo.com pelo seu e-mail real.
+mailto:eduardoaquinoo@live.com pelo seu e-mail real.
 
 Links do Instagram/Twitter se quiser usá-los (ou remova se preferir).
 
